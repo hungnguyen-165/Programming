@@ -1,0 +1,8 @@
+6 steps on programming:
+
+Step 1: restate the problems
+Step 2: identify input and output
+Step 3: work on the problem by hand
+Step 4: Write pseudocode
+Step 5: turn pseudocode to program
+Step 6: run the test
